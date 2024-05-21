@@ -1,0 +1,60 @@
+{
+    "products": [
+      {
+        "id": "001",
+        "name": "Dank Meme Frying Pan",
+        "price": 19.99,
+        "short_description": "Cook your meals with the power of internet memes. Meme-tastic!",
+        "image_path": "./img/pans/tmp0g_m7wdf.png"
+      },
+      {
+        "id": "002",
+        "name": "Epic Bacon Pan",
+        "price": 24.99,
+        "short_description": "For the ultimate bacon lover. Because everything is better with bacon.",
+        "image_path": "./img/pans/tmp0z5d71fw.png"
+      },
+      {
+        "id": "003",
+        "name": "YOLO Omelette Maker",
+        "price": 21.99,
+        "short_description": "Make your omelettes with a YOLO attitude. One pan, one life.",
+        "image_path": "./img/pans/tmp4v39nczc.png"
+      },
+      {
+        "id": "004",
+        "name": "Forever Alone Pan",
+        "price": 15.99,
+        "short_description": "Perfect for solo cooking. Forever alone, but never hungry.",
+        "image_path": "./img/pans/tmp98_lyuyk.png"
+      },
+      {
+        "id": "005",
+        "name": "Trollface Skillet",
+        "price": 22.99,
+        "short_description": "Troll your taste buds with this skillet. Deliciously deceptive.",
+        "image_path": "./img/pans/tmp9fqj3edt.png"
+      },
+      {
+        "id": "006",
+        "name": "Nyan Cat Sauté Pan",
+        "price": 26.99,
+        "short_description": "Cook with the colors of the rainbow. Nyan, nyan, nyan!",
+        "image_path": "./img/pans/tmp9lgrr2fs.png"
+      },
+      {
+        "id": "007",
+        "name": "Doggo Griddle",
+        "price": 27.99,
+        "short_description": "Such cook, much wow. Perfect for pancake art.",
+        "image_path": "./img/pans/tmpad3361c0.png"
+      },
+      {
+        "id": "008",
+        "name": "Shrek Wok",
+        "price": 29.99,
+        "short_description": "Get out of my swamp and into my wok! Great for stir-fry.",
+        "image_path": "./img/pans/tmpb5o840sm.png"
+      }
+    ]
+}

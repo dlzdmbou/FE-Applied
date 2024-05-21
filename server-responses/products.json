@@ -1,0 +1,158 @@
+{
+    "products": [
+      {
+        "id": "001",
+        "name": "Dank Meme Frying Pan",
+        "price": 19.99,
+        "short_description": "Cook your meals with the power of internet memes. Meme-tastic!",
+        "image_path": "./img/pans/tmp0g_m7wdf.png"
+      },
+      {
+        "id": "002",
+        "name": "Epic Bacon Pan",
+        "price": 24.99,
+        "short_description": "For the ultimate bacon lover. Because everything is better with bacon.",
+        "image_path": "./img/pans/tmp0z5d71fw.png"
+      },
+      {
+        "id": "003",
+        "name": "YOLO Omelette Maker",
+        "price": 21.99,
+        "short_description": "Make your omelettes with a YOLO attitude. One pan, one life.",
+        "image_path": "./img/pans/tmp4v39nczc.png"
+      },
+      {
+        "id": "004",
+        "name": "Forever Alone Pan",
+        "price": 15.99,
+        "short_description": "Perfect for solo cooking. Forever alone, but never hungry.",
+        "image_path": "./img/pans/tmp98_lyuyk.png"
+      },
+      {
+        "id": "005",
+        "name": "Trollface Skillet",
+        "price": 22.99,
+        "short_description": "Troll your taste buds with this skillet. Deliciously deceptive.",
+        "image_path": "./img/pans/tmp9fqj3edt.png"
+      },
+      {
+        "id": "006",
+        "name": "Nyan Cat Sauté Pan",
+        "price": 26.99,
+        "short_description": "Cook with the colors of the rainbow. Nyan, nyan, nyan!",
+        "image_path": "./img/pans/tmp9lgrr2fs.png"
+      },
+      {
+        "id": "007",
+        "name": "Doggo Griddle",
+        "price": 27.99,
+        "short_description": "Such cook, much wow. Perfect for pancake art.",
+        "image_path": "./img/pans/tmpad3361c0.png"
+      },
+      {
+        "id": "008",
+        "name": "Shrek Wok",
+        "price": 29.99,
+        "short_description": "Get out of my swamp and into my wok! Great for stir-fry.",
+        "image_path": "./img/pans/tmpb5o840sm.png"
+      },
+      {
+        "id": "009",
+        "name": "Pepe the Chef Pan",
+        "price": 23.99,
+        "short_description": "Feels good, man. Cook like a meme chef.",
+        "image_path": "./img/pans/tmpbo_euavf.png"
+      },
+      {
+        "id": "010",
+        "name": "Deal With It Pan",
+        "price": 25.99,
+        "short_description": "Make delicious meals and deal with it. Cool shades included.",
+        "image_path": "./img/pans/tmpcato1n3c.png"
+      },
+      {
+        "id": "011",
+        "name": "Facepalm Fry Pan",
+        "price": 20.99,
+        "short_description": "For those cooking fails. At least the pan won't disappoint.",
+        "image_path": "./img/pans/tmpcplfj1lu.png"
+      },
+      {
+        "id": "012",
+        "name": "Grumpy Cat Griddle",
+        "price": 24.99,
+        "short_description": "No. Just no. But yes to delicious food.",
+        "image_path": "./img/pans/tmphj2nm9tc.png"
+      },
+      {
+        "id": "013",
+        "name": "Keyboard Warrior Pan",
+        "price": 18.99,
+        "short_description": "For the ultimate internet cook. Type, cook, repeat.",
+        "image_path": "./img/pans/tmpixkgixhl.png"
+      },
+      {
+        "id": "014",
+        "name": "Over 9000 Pan",
+        "price": 28.99,
+        "short_description": "It's over 9000! The power of cooking, unleashed.",
+        "image_path": "./img/pans/tmpkp9pvrr_.png"
+      },
+      {
+        "id": "015",
+        "name": "Success Kid Skillet",
+        "price": 22.99,
+        "short_description": "Cook like a champ. Taste the success.",
+        "image_path": "./img/pans/tmpm8az4tek.png"
+      },
+      {
+        "id": "016",
+        "name": "Philosoraptor Pan",
+        "price": 23.99,
+        "short_description": "If you cook in a pan, does the pan cook you? Ponder while you cook.",
+        "image_path": "./img/pans/tmpmrzztv9p.png"
+      },
+      {
+        "id": "017",
+        "name": "Pan Flute",
+        "price": 19.99,
+        "short_description": "To cook the song of your people. Music to the ears.",
+        "image_path": "./img/pans/tmpojm9n7ok.png"
+      },
+      {
+        "id": "018",
+        "name": "Futurama Fry Pan",
+        "price": 25.99,
+        "short_description": "Shut up and take my money! Best pan for your bucks.",
+        "image_path": "./img/pans/tmpp8nasc8l.png"
+      },
+      {
+        "id": "019",
+        "name": "Ancient Aliens Wok",
+        "price": 30.99,
+        "short_description": "I'm not saying it cooks well, but it cooks well. Ancient alien technology.",
+        "image_path": "./img/pans/tmpq2jw6x1m.png"
+      },
+      {
+        "id": "020",
+        "name": "Y U NO Cook Pan",
+        "price": 21.99,
+        "short_description": "Y U NO COOK? Now you will, with this pan.",
+        "image_path": "./img/pans/tmpsg08qecl.png"
+      },
+      {
+        "id": "021",
+        "name": "Fryday Pan",
+        "price": 22.99,
+        "short_description": "It's Fryday, Fryday. Gotta get down on Fryday.",
+        "image_path": "./img/pans/tmpu54bw23b.png"
+      },
+      {
+        "id": "022",
+        "name": "LOLcats Skillet",
+        "price": 26.99,
+        "short_description": "I can haz cookz? Yes, you can, with this skillet.",
+        "image_path": "./img/pans/tmpxsd6nbyl.png"
+      }
+    ]
+  }  

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <title>OnlyPans</title>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Freehand&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="./css/theme-table-sorter-dropbox.css">
+        <link rel="stylesheet" href="./css/grid.css">
+        <link rel="stylesheet" href="./css/style.css">
+        
+        <link rel="icon" href="./favicon.png" type="image/x-icon">
+  </head>
+  <body>
+
+    <header>
+        <div id="cookie-notice" class="cookie-notice">
+            <div class="page-container">
+                <span>We use cookies to ruin this website. See our cookie <a href="" target="_blank">notice.</a></span>
+                <span class="cookie-buttons"><button>ONLY NECESSARY COOKIES</button> <button>ACCEPT ALL</button></span>
+            </div>
+        </div>
+
+        <div id="navigation">
+            
+            <nav>
+                <div class="left">
+                    <a href="./index.html" class="nav-logo"><img src="./img/op-logo.svg" /></a>
+                </div>
+                <div class="right">
+                    <ul>
+                        <li><a href="./products.html"><img src="./img/ico-cart.svg" alt="Shop"/></a></li>
+                        <li><a href="./index.html"><img src="./img/ico-user.svg" alt="Login"/></a></li>
+                    </ul>
+                </div>
+            </nav>      
+
+        </div>
+
+    </header>
+
+    <main class="prepad">
+
+        <div class="page-container">
+            <h1>Products</h1>
+            <div class="grid sidebar-left" id="product-listing">
+
+                <div class="products-sidebar">
+                    <div class="content-container">
+                        <div class="padding">
+                            <div class="input-container">
+                                <fieldset>
+                                    <legend>Search products</legend>
+                                    <img class="search-clear" src="./img/ico-del.svg" alt="clear" />
+                                    <input id="product-search" name="product-search" class="form-input" type="text" maxlength="128" placeholder="Search" />
+                                </fieldset>
+                            </div>
+                        </div>
+                        <div id="shopping-cart-wrapper">
+                            <div class="padding">
+                                <div>
+                                    <h4 id="shopping-cart-title"><span>Shopping cart</span><button id="shopping-cart-clear">X</button></h4>                                
+                                </div>                            
+                                <ul id="shopping-cart"></ul>
+                                <div id ="shopping-cart-total">0 $</div>
+                            </div>                        
+                            <div class="padding">
+                                <button id="shopping-cart-checkout">CHECKOUT</button>
+                            </div>
+                        </div>
+                    </div>                    
+                </div>
+
+                <div class="content-container">
+                    <div class="padding">
+                        <table id="product-table" class="tablesorter-dropbox tablesorter">
+                            <!-- load table data with AJAX -->
+                        </table>
+                        <p><span class="copywrong">* max 1 unit per order per client per week to prevent botting.</span></p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </main>    
+
+    <footer>
+        <div class="page-container">
+            <div class="footer-content">
+                <div>
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Shop</a></li>
+                        <li><a href="">Login</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li><a href="jobs.html">Jobs</a></li>
+                        <li><a href="">Legal</a></li>
+                        <li><a href="">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="copywrong">Copywrong &copy; OnlyPans 2024.</div>
+            </div>            
+        </div>
+    </footer>
+    
+    
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://mottie.github.io/tablesorter/dist/js/jquery.tablesorter.min.js" crossorigin="anonymous"></script>
+    <script src="./js/jquery.validate.min.js"></script>
+	<script src="./js/index.js"></script>
+  </body>
+</html>
